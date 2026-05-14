@@ -34,7 +34,7 @@ async function sendMessage() {
   try {
 
     const response = await fetch(
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyB9Qqha07-WnA9WrFPzSefFcL6SIT7CYUA",
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBtcnpycwDmRkRxP2Jqjsm5av7QRECIB_c",
       {
         method: "POST",
 
